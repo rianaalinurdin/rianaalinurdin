@@ -657,6 +657,11 @@ pre code {
     max-width: 720px;
   }
 }
+@media (max-width: 768px) {
+  .tengah{
+    text-align: center;
+  }
+}
 
 @media (min-width: 992px) {
   .container,
@@ -10383,9 +10388,8 @@ h6,
 
 @media (max-width: 500px) {
 }
-.foto_kajur {
-  border-radius: 5px 5px 0 0;
-}
+
+  
 
 figure.sixteen-nine-img {
   width: 100%;

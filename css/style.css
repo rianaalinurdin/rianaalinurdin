@@ -21008,16 +21008,19 @@ a {
 }
 
 
+
 .float{
 	position:fixed;
-	width:65px;
-	height:65px;
-	bottom:20px;
+	width:70px;
+	height:105px;
+	bottom:50px;
 	right:50px;
+
 	background-color:#25d366;
 	color:#FFF;
 	border-radius:50px;
 	text-align:center;
+  /* text-align: justify; */
   font-size:30px;
 	box-shadow: 2px 2px 3px #999;
   z-index:100;
